@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
