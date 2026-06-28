@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0283-move-zeroes) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
