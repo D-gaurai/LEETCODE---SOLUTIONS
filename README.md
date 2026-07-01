@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0520-detect-capital](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0520-detect-capital) |
 ## Hash Table
 |  |
 | ------- |
