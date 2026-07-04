@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0233-number-of-digit-one) |
 ## Simulation
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
