@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0283-move-zeroes) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
