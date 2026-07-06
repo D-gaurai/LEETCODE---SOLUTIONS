@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
