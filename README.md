@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0233-number-of-digit-one) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
