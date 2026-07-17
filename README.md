@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
