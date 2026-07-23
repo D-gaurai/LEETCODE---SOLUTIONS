@@ -4,15 +4,15 @@ public:
         if(s.length()!=t.length()){
             return false;
         }
-        int count[26]={0};
-        for(int i=0;i<s.length();i++){
-            count[s[i]-'a']++;
-            count[t[i]-'a']--;
+        unordered_map<char,int>m;
+        for(char c:s){
+            m[c]++;
         }
-        for(int i=0;i<26;i++){
-            if(count[i]!=0){
+        for(char c:t){
+            if(m.find(c)==m.end()||m[c]==0){
                 return false;
             }
+            m[c]--;
         }
         return true;
     }
