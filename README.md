@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1108-defanging-an-ip-address) |
 ## Hash Table
 |  |
