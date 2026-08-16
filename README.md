@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1323-maximum-69-number) |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
+| [1323-maximum-69-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1323-maximum-69-number) |
 ## Game Theory
 |  |
 | ------- |
