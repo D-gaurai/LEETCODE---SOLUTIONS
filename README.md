@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1323-maximum-69-number) |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0744-find-smallest-letter-greater-than-target) |
