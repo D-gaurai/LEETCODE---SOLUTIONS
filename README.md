@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Enumeration
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
