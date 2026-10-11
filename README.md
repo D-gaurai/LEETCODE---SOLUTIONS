@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
