@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Number Theory
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Enumeration
 |  |
 | ------- |
