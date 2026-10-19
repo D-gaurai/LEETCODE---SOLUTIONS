@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
