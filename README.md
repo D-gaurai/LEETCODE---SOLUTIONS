@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1323-maximum-69-number) |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
