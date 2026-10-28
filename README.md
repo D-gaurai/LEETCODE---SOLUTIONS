@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0344-reverse-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0509-fibonacci-number) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
