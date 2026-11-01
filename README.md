@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1550-three-consecutive-odds) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0415-add-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0739-daily-temperatures) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Indexed Tree
 |  |
