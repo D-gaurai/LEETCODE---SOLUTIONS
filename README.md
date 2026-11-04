@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
