@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1672-richest-customer-wealth) |
 ## Quicksort
 |  |
 | ------- |
