@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
