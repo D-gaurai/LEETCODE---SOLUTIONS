@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2239-find-closest-number-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
