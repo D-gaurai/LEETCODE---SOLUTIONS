@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0724-find-pivot-index) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1323-maximum-69-number) |
 ## Game Theory
 |  |
