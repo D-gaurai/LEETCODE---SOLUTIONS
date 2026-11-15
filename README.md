@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1323-maximum-69-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3099-harshad-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3099-harshad-number) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
