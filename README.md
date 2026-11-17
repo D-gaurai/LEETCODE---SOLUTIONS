@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3978-unique-middle-element) |
 ## Math
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
+| [3978-unique-middle-element](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
 | ------- |
