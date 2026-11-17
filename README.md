@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1480-running-sum-of-1d-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0476-number-complement) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
