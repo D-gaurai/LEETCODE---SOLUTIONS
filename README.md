@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
