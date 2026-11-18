@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1748-sum-of-unique-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Enumeration
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1748-sum-of-unique-elements) |
 | [3978-unique-middle-element](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
