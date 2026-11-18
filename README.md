@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Hash Table
 |  |
 | ------- |
