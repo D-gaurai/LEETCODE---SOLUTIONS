@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0876-middle-of-the-linked-list) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0415-add-strings) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0233-number-of-digit-one) |
+| [0392-is-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1143-longest-common-subsequence) |
