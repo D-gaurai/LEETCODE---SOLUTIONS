@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
