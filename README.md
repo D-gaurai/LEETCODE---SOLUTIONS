@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Enumeration
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3978-unique-middle-element](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
