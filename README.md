@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3099-harshad-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3908-valid-digit-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3908-valid-digit-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
