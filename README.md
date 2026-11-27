@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
