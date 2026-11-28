@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1207-unique-number-of-occurrences) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0709-to-lower-case) |
 | [0899-orderly-queue](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0899-orderly-queue) |
+| [0944-delete-columns-to-make-sorted](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0899-orderly-queue) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
