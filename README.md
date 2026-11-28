@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0877-stone-game) |
+| [0899-orderly-queue](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0899-orderly-queue) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1512-number-of-good-pairs) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0899-orderly-queue](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0709-to-lower-case) |
+| [0899-orderly-queue](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0899-orderly-queue) |
 | [1108-defanging-an-ip-address](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/1189-maximum-number-of-balloons) |
@@ -526,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0046-permutations) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/gdeepanshu327-debug/DSA--PRACTICE/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
